@@ -6,7 +6,8 @@ ga:
       value: jsonblob.com
     -
       key: _trackPageview
-
+blobManager:
+  fileSystemBlogDataDirectory: "/Users/joaquin.gonzalez/Code/jsonblob/data"
 server:
   type: simple
   applicationContextPath: /
